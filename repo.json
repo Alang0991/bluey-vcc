@@ -1,12 +1,19 @@
 {
   "name": "Bluey Tools",
-  "author": "Alang0991",
-  "url": "https://github.com/Alang0991/bluey-avatar-tools",
-  "packages": [
-    {
-      "name": "com.bluey.avatar-tools",
+  "id": "bluey.tools",
+  "url": "https://github.com/Alang0991/bluey-vcc",
+  "packages": {
+    "com.bluey.avatar-tools": {
       "displayName": "Bluey Avatar Tools",
-      "url": "https://github.com/Alang0991/bluey-avatar-tools.git"
+      "description": "VRChat avatar optimization tools.",
+      "author": {
+        "name": "Alang0991"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/Alang0991/bluey-avatar-tools/archive/refs/tags/v1.0.0.zip"
+        }
+      }
     }
-  ]
+  }
 }
