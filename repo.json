@@ -12,6 +12,7 @@
       "versions": {
         "1.0.0": {
           "url": "https://codeload.github.com/Alang0991/bluey-avatar-tools/zip/refs/tags/v1.0.0",
+          "zipSha256": "",
           "vpmDependencies": {}
         }
       }
