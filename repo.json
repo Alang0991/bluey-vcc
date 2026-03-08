@@ -1,8 +1,11 @@
 {
   "name": "Bluey Tools",
+  "author": "Alang0991",
+  "url": "https://github.com/Alang0991/bluey-avatar-tools",
   "packages": [
     {
       "name": "com.bluey.avatar-tools",
+      "displayName": "Bluey Avatar Tools",
       "url": "https://github.com/Alang0991/bluey-avatar-tools.git"
     }
   ]
