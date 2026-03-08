@@ -1,0 +1,12 @@
+{
+  "name": "Bluey Tools",
+  "author": "Alang0991",
+  "packages": [
+    {
+      "name": "com.bluey.avatar-tools",
+      "displayName": "Bluey Avatar Tools",
+      "description": "VRChat avatar optimization tools.",
+      "url": "https://github.com/Alang0991/bluey-avatar-tools/releases/download/v1.0.0/bluey-avatar-tools.zip"
+    }
+  ]
+}
