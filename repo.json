@@ -1,0 +1,9 @@
+{
+  "name": "Bluey Tools",
+  "packages": [
+    {
+      "name": "com.bluey.avatar-tools",
+      "url": "https://github.com/Alang0991/bluey-avatar-tools.git"
+    }
+  ]
+}
